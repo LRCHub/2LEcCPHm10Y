@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "if you come",
+  "base_artist": "Aqua Timez",
+  "createdAt": "2025-12-07T11:42:05.025607Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "If You Come Back To Me/Outro - Main Version - Explicit",
+      "artist": "Bowling for Soup",
+      "has_synced": false,
+      "path": "select/01_If_You_Come_Back_To_Me_Outro_-_Main_Version_-_Explicit_Bowling_for_Soup.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "If You Come Back To Me",
+      "artist": "Bowling for Soup",
+      "has_synced": false,
+      "path": "select/02_If_You_Come_Back_To_Me_Bowling_for_Soup.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "If You Come To Me",
+      "artist": "Atomic Kitten",
+      "has_synced": true,
+      "path": "select/03_If_You_Come_To_Me_Atomic_Kitten.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "If You Come Back",
+      "artist": "Blue",
+      "has_synced": false,
+      "path": "select/04_If_You_Come_Back_Blue.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "If You Come To Me",
+      "artist": "Atomic Kitten",
+      "has_synced": true,
+      "path": "select/05_If_You_Come_To_Me_Atomic_Kitten.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "If You Come To Me",
+      "artist": "Atomic Kitten",
+      "has_synced": true,
+      "path": "select/06_If_You_Come_To_Me_Atomic_Kitten.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "If You Come Back",
+      "artist": "Blue",
+      "has_synced": false,
+      "path": "select/07_If_You_Come_Back_Blue.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "If You Come Back - 8 Jam Streetmix",
+      "artist": "Blue",
+      "has_synced": false,
+      "path": "select/08_If_You_Come_Back_-_8_Jam_Streetmix_Blue.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "If You Come Back (8 Jam Streetmix)",
+      "artist": "Blue",
+      "has_synced": false,
+      "path": "select/09_If_You_Come_Back_(8_Jam_Streetmix)_Blue.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "If You Come Back - Live Version",
+      "artist": "Blue",
+      "has_synced": false,
+      "path": "select/10_If_You_Come_Back_-_Live_Version_Blue.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "If You Come Back",
+      "artist": "Blue",
+      "has_synced": true,
+      "path": "select/11_If_You_Come_Back_Blue.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "If You Come Back",
+      "artist": "Blue",
+      "has_synced": true,
+      "path": "select/12_If_You_Come_Back_Blue.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "If You Come To Me",
+      "artist": "Atomic Kitten",
+      "has_synced": true,
+      "path": "select/13_If_You_Come_To_Me_Atomic_Kitten.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "If You Come Back",
+      "artist": "Blue",
+      "has_synced": true,
+      "path": "select/14_If_You_Come_Back_Blue.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "if you come",
+      "artist": "Aqua Timez",
+      "has_synced": false,
+      "path": "select/pl_01_if_you_come_Aqua_Timez.txt"
+    }
+  ]
+}
